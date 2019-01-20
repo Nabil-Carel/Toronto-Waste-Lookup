@@ -1,13 +1,13 @@
 {
-  "main.css": "/Nabil-Carel/Toronto-Waste-Lookup/static/css/main.79097a70.chunk.css",
-  "main.js": "/Nabil-Carel/Toronto-Waste-Lookup/static/js/main.587982fa.chunk.js",
-  "main.js.map": "/Nabil-Carel/Toronto-Waste-Lookup/static/js/main.587982fa.chunk.js.map",
-  "static/js/1.4d0db85e.chunk.js": "/Nabil-Carel/Toronto-Waste-Lookup/static/js/1.4d0db85e.chunk.js",
-  "static/js/1.4d0db85e.chunk.js.map": "/Nabil-Carel/Toronto-Waste-Lookup/static/js/1.4d0db85e.chunk.js.map",
-  "runtime~main.js": "/Nabil-Carel/Toronto-Waste-Lookup/static/js/runtime~main.b776d414.js",
-  "runtime~main.js.map": "/Nabil-Carel/Toronto-Waste-Lookup/static/js/runtime~main.b776d414.js.map",
-  "static/css/main.79097a70.chunk.css.map": "/Nabil-Carel/Toronto-Waste-Lookup/static/css/main.79097a70.chunk.css.map",
-  "index.html": "/Nabil-Carel/Toronto-Waste-Lookup/index.html",
-  "precache-manifest.cba6c5d04377f754e57809aad911dd59.js": "/Nabil-Carel/Toronto-Waste-Lookup/precache-manifest.cba6c5d04377f754e57809aad911dd59.js",
-  "service-worker.js": "/Nabil-Carel/Toronto-Waste-Lookup/service-worker.js"
+  "main.css": "/Toronto-Waste-Lookup/static/css/main.79097a70.chunk.css",
+  "main.js": "/Toronto-Waste-Lookup/static/js/main.023b14c7.chunk.js",
+  "main.js.map": "/Toronto-Waste-Lookup/static/js/main.023b14c7.chunk.js.map",
+  "static/js/1.4d0db85e.chunk.js": "/Toronto-Waste-Lookup/static/js/1.4d0db85e.chunk.js",
+  "static/js/1.4d0db85e.chunk.js.map": "/Toronto-Waste-Lookup/static/js/1.4d0db85e.chunk.js.map",
+  "runtime~main.js": "/Toronto-Waste-Lookup/static/js/runtime~main.6348a982.js",
+  "runtime~main.js.map": "/Toronto-Waste-Lookup/static/js/runtime~main.6348a982.js.map",
+  "static/css/main.79097a70.chunk.css.map": "/Toronto-Waste-Lookup/static/css/main.79097a70.chunk.css.map",
+  "index.html": "/Toronto-Waste-Lookup/index.html",
+  "precache-manifest.ff72c0a8ddc68b1a821e1b4f3dddffe1.js": "/Toronto-Waste-Lookup/precache-manifest.ff72c0a8ddc68b1a821e1b4f3dddffe1.js",
+  "service-worker.js": "/Toronto-Waste-Lookup/service-worker.js"
 }
